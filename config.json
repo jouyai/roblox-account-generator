@@ -2,7 +2,7 @@
     "proxy_type": "http",
     "captcha_settings": {
         "api_keys": {
-            "rosolve": ""
+            "rosolve": "ffabd83e1d20d4a9924ccf543e0f946b312361ea810cb8c2190cec6b768b982c"
         },
         "selected_solver": "rosolve",
         "timeout": 30
@@ -10,10 +10,10 @@
     "account_settings": {
         "custom_password": {
             "enabled": false,
-            "password": "$password123"
+            "password": "jakarta132"
         },
         "email_verification": {
-            "enabled": false
+            "enabled": true
         },
         "display_name": {
             "enabled": false,
